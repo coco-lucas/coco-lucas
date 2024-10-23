@@ -3,7 +3,16 @@
 ## 🪪About Me
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
 
- 🎓 Systems Development Analyst Student  at @[UNIFESO]([[https://portal.ufpel.edu.br/](https://www.unifeso.edu.br/)])
+
+ 🎓 Systems Development Analyst Student at @[UNIFESO]([[https://portal.ufpel.edu.br/](https://www.unifeso.edu.br/)])
+
+<p>
+</p>
+
+ 👨‍💻 FullStack Developer Resident at @[SERRATEC]([[https://portal.ufpel.edu.br/](https://serratec.org/)])
+
+<p>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-071903265/)](https://www.linkedin.com/in/lucas-c-071903265/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@lucauxs-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com.com)](mailto:lucasgcocos@gmail.com)
