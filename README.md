@@ -4,12 +4,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
 
 
- 🎓 Systems Development Analyst Student at @[UNIFESO]([[https://portal.ufpel.edu.br/](https://www.unifeso.edu.br/)])
+ 🎓 Systems Development Analyst Student at @[UNIFESO](https://www.unifeso.edu.br/)
 
 <p>
 </p>
 
- 👨‍💻 FullStack Developer Resident at @[SERRATEC]([[https://portal.ufpel.edu.br/](https://serratec.org/)])
+ 👨‍💻 FullStack Developer Resident at @[SERRATEC](https://serratec.org/)
 
 <p>
 </p>
