@@ -15,10 +15,10 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-071903265/)](https://www.linkedin.com/in/lucas-c-071903265/)
-[![Gmail Badge](https://img.shields.io/badge/-contact@lucauxs-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com.com)](mailto:lucasgcocos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@coco-lucas-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com.com)](mailto:lucasgcocos@gmail.com)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucauxs&layout=compact&theme=radical" alt="My top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coco-lucas&layout=compact&theme=radical" alt="My top languages" />
 </div>
 
 ##
