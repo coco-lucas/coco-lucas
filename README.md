@@ -14,7 +14,7 @@
 <p>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-071903265/)](https://www.linkedin.com/in/lucas-c-071903265/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coco-lucas/)](https://www.linkedin.com/in/coco-lucas/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@lucascoco-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com)](mailto:lucasgcocos@gmail.com)
 
 <div>
