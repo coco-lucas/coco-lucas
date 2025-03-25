@@ -1,31 +1,32 @@
+<div align="center">
+
 ~~~java
 ☕ C8H10N4O2
 ~~~
+  
+</div>
+  
 ## 🪪About Me
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,python,react,html,css,js)](#)
+
+#### Hey! I’m Lucas, a full-stack developer with a strong passion for backend systems-especially Java and Spring Boot.
 
  * 🎓 **Systems Development Analyst Student at** [UNIFESO](https://www.unifeso.edu.br/)
 
-<p>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=neovim,ubuntu,windows,mongo,postgres,mysql,)](#) 
 
- * 👨‍💻 **FullStack Developer Resident at** [SERRATEC](https://serratec.org/)
 
-<p>
-</p>
+## 👨‍💻My Stack
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coco-lucas/)](https://www.linkedin.com/in/coco-lucas/)
-[![Gmail Badge](https://img.shields.io/badge/-contact@lucascoco-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com)](mailto:lucasgcocos@gmail.com)
+**Back-end:**
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coco-lucas&layout=compact&theme=radical" alt="My top languages" />
-</div>
+[![Back-end](https://skillicons.dev/icons?i=java,spring,postgres,python,ts,nodejs)](#) 
 
-##
+**Front-end:**
 
-<details>
- <summary><b>More Github Info</b></summary>
-    <div align="center">
-     <img src="https://gh-readme-profile.vercel.app/api?username=coco-lucas&theme=neon-dark&border_width=0&border_radius=15&hide_border=true" alt="My github stats">
-    </div>
-</details>
+[![Front-end](https://skillicons.dev/icons?i=react,vite,html,css,js,ts)](#) 
+
+
+## 📩Contact Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coco-lucas) [![Gmail Badge](https://img.shields.io/badge/-contact@lucascoco-6633cc?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com)](mailto:lucasgcocos@gmail.com)
+
