@@ -25,8 +25,11 @@
 
 [![Front-end](https://skillicons.dev/icons?i=react,vite,html,css,js,ts)](#) 
 
-
+  
 ## 📩Contact Me
+
+<div align="right">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coco-lucas) [![Gmail Badge](https://img.shields.io/badge/-contact@lucascoco-6633cc?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgcocos@gmail.com)](mailto:lucasgcocos@gmail.com)
 
+</div>
