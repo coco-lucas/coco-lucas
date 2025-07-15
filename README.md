@@ -1,12 +1,12 @@
 # About Me
 
-Software Developer | System Development Analyst @[UNIFESO](https://www.unifeso.edu.br/)
+Fullstack Developer | System Development Analyst @[UNIFESO](https://www.unifeso.edu.br/)
 
-Working with `Java` and `Javascript` in the moment.
+Working with `Java` and `Typescript` in the moment.
 
-Currently studying about `CyberSec`, `Cloud` and `Shell`.
+Currently studying about `Pentest`, `Cloud`, `Shell` and `UX/UI`.
 
-Interested in learning `C/C#`, `Rust`, `Go`.
+Interested in learning `C/C#`, `Rust`.
 
 ## My Stack
 
