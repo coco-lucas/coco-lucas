@@ -1,14 +1,13 @@
 # About Me
 
-Fullstack Developer | System Development Analyst @[UNIFESO](https://www.unifeso.edu.br/)
+Fullstack Developer | CS Major @[UNIFESO](https://www.unifeso.edu.br/)
 
-Working with `Java` and `Typescript` in the moment.
 
-Currently studying about `Pentest`, `Cloud`, `Shell` and `UX/UI`.
+* Working with `Java` and `Typescript` in the moment.
 
-Interested in learning `C/C#`, `Rust`.
+* Currently studying about `Security`, `Cloud` and `UI/UX`.
 
-## My Stack
+* Interested in learning `C/C#`, `Rust`.
 
 ### Languages
 
@@ -19,9 +18,8 @@ Interested in learning `C/C#`, `Rust`.
 - **Back end:** SpringBoot, Node.js
 - **Front end:** React, Next.js
 - **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
-- **Cloud & DevOps:** Docker, Git
 - **Messaging:** RabbitMQ
-- **Others:** Linux
+- **Others:** Linux, Docker, Git
   
 ## Contact Me
 
