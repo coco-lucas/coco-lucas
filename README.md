@@ -1,6 +1,6 @@
 # About Me
 
-Fullstack Developer | CS Major @[UNIFESO](https://www.unifeso.edu.br/)
+Fullstack Developer | CS Student @[UNIFESO](https://www.unifeso.edu.br/)
 
 
 * Working with `Java` and `Typescript` in the moment.
