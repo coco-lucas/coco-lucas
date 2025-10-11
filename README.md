@@ -1,17 +1,17 @@
 # About Me 
 
-Fullstack Developer | QA Analyst at @[NoClaf](https://www.noclaftech.com/) | CS Student @[UNIFESO](https://www.unifeso.edu.br/) 
+Fullstack Developer | Front end dev. at @[NoClaf](https://www.noclaftech.com/) | CS Student @[UNIFESO](https://www.unifeso.edu.br/) 
 
-* Currently coding with `Springboot` and `Nextjs`.
+* Currently coding with `React + Next.js` and `Django`.
 
 ### Languages 
 - Java, Javascript, Typescript, Python, Bash, C
 
 ### Tools & others
-- **Back end:** SpringBoot, Node.js
+- **Back end:** SpringBoot, Node.js, Django
 - **Front end:** React, Next.js
-- **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB -
-- **Messaging:** RabbitMQ -
+- **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
+- **Messaging:** RabbitMQ
 - **Others:** Linux, Docker, Git
 
 ### Contact Me 
