@@ -2,14 +2,14 @@
 
 Fullstack Developer | Front end dev. at @[NoClaf](https://www.noclaftech.com/) | CS Student @[UNIFESO](https://www.unifeso.edu.br/) 
 
-* Currently working / coding with `Typescript + Next.js`.
+* Currently working / coding with `Typescript, Next.js, NestJs, Express`.
 
 ### Languages 
-- Java, Javascript, Typescript, Python, Bash, C
+- Typescript, Java, Javascript, Python
 
 ### Tools & others
-- **Back end:** SpringBoot, Node.js, Django
-- **Front end:** React, Next.js, Vite, Zustand,Tanstack
+- **Back end:** NestJs, Express, SpringBoot, Node.js, Django
+- **Front end:** React, Next.js, Vite, Zustand,Tanstack, Zod, RHF, Motion
 - **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
 - **Others:** Linux, Docker, Git, Cloud, RabbitMQ
 
